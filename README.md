@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-239120?style=for-the-badge&logo=html5&logoColor=white&link=https://oussamazekri.fr)](https://oussamazekri.fr)
 [![Mail](https://img.shields.io/badge/-Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:oussama.zekri@ens-paris-saclay.fr)](mailto:oussama.zekri@ens-paris-saclay.fr)
 
-Welcome to my Github profile. I'm a french Research Student in the [Mathematics department](https://ens-paris-saclay.fr/en/education/departements/design/mathematics) at [ENS Paris-Saclay](https://ens-paris-saclay.fr/en).
+Welcome to my Github profile. I'm a french PhD Student at [CREST](https://crest.science/)/[ENSAE](https://www.ensae.fr/).
 I'm interested in **machine learning** and particularly in **generative modeling**. I also like to transmit my knowledge.
 You can connect with me using the links above. Take a look at my [website](https://oussamazekri.fr) !
 <!---
@@ -13,4 +13,4 @@ You can connect with me using the links above. Take a look at my [website](https
 --->
 -------
 
-Last Edited on : 01/01/2025
+Last Edited on : 06/09/2025
