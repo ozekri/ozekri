@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-239120?style=for-the-badge&logo=html5&logoColor=white&link=https://oussamazekri.fr)](https://oussamazekri.fr)
 [![Mail](https://img.shields.io/badge/-Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:oussama.zekri@ens-paris-saclay.fr)](mailto:oussama.zekri@ens-paris-saclay.fr)
 
-Welcome to my Github profile. I'm a french PhD Student at [CREST](https://crest.science/)/[ENSAE](https://www.ensae.fr/).
+Welcome to my Github profile. I'm a first year PhD Student at [CREST](https://crest.science/)/[ENSAE](https://www.ensae.fr/).
 I'm interested in **machine learning** and particularly in **generative modeling**. I also like to transmit my knowledge.
 You can connect with me using the links above. Take a look at my [website](https://oussamazekri.fr) !
 <!---
